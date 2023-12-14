@@ -14,6 +14,7 @@
   <img align="right" alt=Gabi-yoda" height="100" width="100" src="https://media.giphy.com/media/zQhFEBrX6plKg/giphy.gif"
 </div>
 <br>
+<br>
 <div>
   <a href="https://www.linkedin.com/in/gabrielli-misael-santana-632464254/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"blank"></a>
   <a href="https://www.instagram.com/gabimizael_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target"blank"></a>
