@@ -21,5 +21,3 @@
   <a href="https://discord.gg/FAn8Utr5" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target"blank"></a>
   <a href="mailto:gabriellims79@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target"blank"></a>
 </div>
-
-![Snake Animation](https://github.com/gabriellimisael/gabriellimisael/blob/output/github-contribution-grid-snake.svg)
