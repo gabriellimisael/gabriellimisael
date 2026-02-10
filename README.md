@@ -1,8 +1,8 @@
-### Olá! Eu sou Gabrielli Misael Santana
+### Olá! Eu sou a Gabrielli Misael Santana
 
-- 📞 Atualmente trabalho com Atendimento ao Cliente
-- 👩🏾‍💻 Estou estudando C# e .NET 
-- 💻 Procuro uma vaga como Desenvolvedor C# .NET Júnior
+- 📞 Atualmente trabalho como Analista de Qualidade e Dados
+- 👩🏾‍💻 Estou estudando sobre IA e Phyton 
+- 💻 Procuro uma vaga como Analista de Qualidade e Dados
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellimisael&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellimisael&layout=compact)](https://github.com/gabriellimisael/github-readme-stats)
